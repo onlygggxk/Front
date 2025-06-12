@@ -1,0 +1,43 @@
+
+.container.data-v-f08792f8 {
+	padding: 40rpx;
+}
+.container view.data-v-f08792f8 {
+	margin-bottom: 40rpx;
+}
+.item-container.data-v-f08792f8 {
+	position: relative;
+	height: 330rpx;
+	width: calc(100vw - 80rpx);
+	border-radius: 20rpx;
+	color: white;
+}
+.item-container image.data-v-f08792f8 {
+	height: 330rpx;
+	width: 100%;
+	border-radius: 20rpx;
+}
+.title.data-v-f08792f8 {
+	font-size: 40rpx;
+	color: white;
+	font-weight: bold;
+	position: absolute;
+	top: 26%;
+	left: 3%;
+	width: 95%;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+.next-title.data-v-f08792f8 {
+	font-size: 24rpx;
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 3%;
+	width: 95%;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+

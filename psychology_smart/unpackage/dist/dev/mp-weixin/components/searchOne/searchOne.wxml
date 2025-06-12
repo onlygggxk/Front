@@ -1,0 +1,1 @@
+<view style="padding:20rpx;"><u-search vue-id="d7cae778-1" placeholder="{{searchLabel}}" value="{{keyword}}" data-event-opts="{{[['^search',[['searchClick']]],['^custom',[['searchClick']]],['^input',[['__set_model',['','keyword','$event',[]]]]]]}}" bind:search="__e" bind:custom="__e" bind:input="__e" bind:__l="__l"></u-search></view>

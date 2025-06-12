@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "健康资讯",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "search-one": "/components/searchOne/searchOne",
+    "tabs-one": "/components/tabsOne/tabsOne",
+    "anchor-line": "/components/anchorLine/anchorLine",
+    "item-list": "/components/itemList/itemList"
+  }
+}

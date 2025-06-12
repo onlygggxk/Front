@@ -1,0 +1,140 @@
+{
+	"easycom": {
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "首页",
+			"enablePullDownRefresh": false
+		}
+	}, {
+		"path": "pages/me/me",
+		"style": {
+			"navigationBarTitleText": "我的",
+			"enablePullDownRefresh": false
+		}
+	}, {
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarTitleText": "登录",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarTitleText": "注册",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/updateInfo/updateInfo",
+		"style": {
+			"navigationBarTitleText": "修改个人信息",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/detail/detail",
+		"style": {
+			"navigationBarTitleText": "测试",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/updatePwd/updatePwd",
+		"style": {
+			"navigationBarTitleText": "修改密码",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/records/records",
+		"style": {
+			"navigationBarTitleText": "测试记录",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/noticeDetail/noticeDetail",
+		"style": {
+			"navigationBarTitleText": "公告详情",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/knowledge/knowledge",
+		"style": {
+			"navigationBarTitleText": "健康资讯",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/psy/psy",
+		"style": {
+			"navigationBarTitleText": "心理测试",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/healthy/healthy",
+		"style": {
+			"navigationBarTitleText": "身体健康",
+			"enablePullDownRefresh": false
+		}
+
+	}    ,{
+            "path" : "pages/knowledgeDetail/knowledgeDetail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "资讯详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+	"tabBar": {
+		"color": "#191919",
+		"selectedColor": "#13227A",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "static/tabberbar/index.png",
+				"selectedIconPath": "static/tabberbar/index-a.png"
+			}, {
+				"pagePath": "pages/healthy/healthy",
+				"text": "健康",
+				"iconPath": "static/tabberbar/healthy.png",
+				"selectedIconPath": "static/tabberbar/healthy-a.png"
+			},
+			{
+				"pagePath": "pages/knowledge/knowledge",
+				"text": "资讯",
+				"iconPath": "static/tabberbar/knowledge.png",
+				"selectedIconPath": "static/tabberbar/knowledge-a.png"
+			}, {
+				"pagePath": "pages/psy/psy",
+				"text": "心理",
+				"iconPath": "static/tabberbar/psy.png",
+				"selectedIconPath": "static/tabberbar/psy-a.png"
+			}, {
+				"pagePath": "pages/me/me",
+				"text": "我的",
+				"iconPath": "static/tabberbar/me.png",
+				"selectedIconPath": "static/tabberbar/me-a.png"
+			}
+		]
+	}
+}

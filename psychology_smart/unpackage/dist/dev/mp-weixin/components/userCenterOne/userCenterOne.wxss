@@ -1,0 +1,49 @@
+
+.container.data-v-e3f1b05c {
+	background-image: url(https://code-grade-server-prd.oss-cn-shenzhen.aliyuncs.com/2025-02-14/c4737c85-70d8-4e4e-83f2-af53a0cd0d07_msxcxuserbg.png);
+	width: 100vw;
+	height: 100vh;
+	position: relative;
+}
+.header-img.data-v-e3f1b05c {
+	height: 150rpx;
+	width: 150rpx;
+	border-radius: 50%;
+	position: absolute;
+	left: 50%;
+	top: 10%;
+	margin-left: -75rpx;
+}
+.btn-text.data-v-e3f1b05c {
+	color: white;
+	font-weight: 500;
+	width: 100%;
+	text-align: center;
+	position: absolute;
+	top: 25%;
+}
+.info-container.data-v-e3f1b05c {
+	position: absolute;
+	height: 60vh;
+	bottom: 0;
+	width: calc(100vw - 80rpx);
+	padding: 40rpx;
+	background-color: white;
+	border-radius: 40rpx 40rpx 0 0;
+}
+.item.data-v-e3f1b05c {
+	display: flex;
+	height: 80rpx;
+	width: 100%;
+	align-items: center;
+	font-size: 30rpx;
+	border-bottom: 1px solid #eaecef;
+}
+.item image.data-v-e3f1b05c {
+	height: 40rpx;
+	width: 40rpx;
+}
+.left-title.data-v-e3f1b05c {
+	margin-left: 10rpx;
+}
+

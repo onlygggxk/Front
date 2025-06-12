@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uview-banner": "/components/uviewBanner/uviewBanner",
+    "anchor-line": "/components/anchorLine/anchorLine",
+    "item-list": "/components/itemList/itemList"
+  }
+}

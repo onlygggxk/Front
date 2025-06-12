@@ -1,0 +1,1 @@
+<view><blue-register-next vue-id="9a676040-1" label="健康管理小程序" data-event-opts="{{[['^registerClick',[['registerClick']]]]}}" bind:registerClick="__e" bind:__l="__l"></blue-register-next></view>

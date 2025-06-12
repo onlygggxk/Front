@@ -1,0 +1,31 @@
+
+.container.data-v-32ac83e4 {
+	padding: 40rpx;
+}
+.article-container.data-v-32ac83e4 {
+	width: calc(100vw - 80rpx);
+}
+.title.data-v-32ac83e4 {
+	font-size: 38rpx;
+	font-weight: bold;
+	color: black;
+	margin-bottom: 20rpx;
+}
+.next-title.data-v-32ac83e4 {
+	font-size: 26rpx;
+	color: #999999;
+	margin-bottom: 20rpx;
+}
+.create-time.data-v-32ac83e4 {
+	font-size: 22rpx;
+	color: #999999;
+	margin-bottom: 20rpx;
+}
+.container image.data-v-32ac83e4 {
+	height: 300rpx;
+	width: 100%;
+	text-align: center;
+	margin: 20rpx 0;
+	border-radius: 20rpx;
+}
+

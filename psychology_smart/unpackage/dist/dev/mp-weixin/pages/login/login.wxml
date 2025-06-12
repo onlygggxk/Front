@@ -1,0 +1,1 @@
+<view><blue-login-next vue-id="35a7246c-1" label="健康管理小程序" data-event-opts="{{[['^loginClick',[['loginClick']]],['^registerClick',[['registerClick']]]]}}" bind:loginClick="__e" bind:registerClick="__e" bind:__l="__l"></blue-login-next></view>

@@ -1,0 +1,1 @@
+<view hidden="{{!(bannerDataList.length>0)}}"><u-swiper vue-id="6cacd6f4-1" list="{{bannerDataList}}" keyName="{{imgPropName}}" height="{{height}}" indicator="{{true}}" circular="{{true}}" data-event-opts="{{[['^click',[['click']]]]}}" bind:click="__e" bind:__l="__l"></u-swiper></view>

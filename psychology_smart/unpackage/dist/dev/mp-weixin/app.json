@@ -1,0 +1,63 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/me/me",
+    "pages/login/login",
+    "pages/register/register",
+    "pages/updateInfo/updateInfo",
+    "pages/detail/detail",
+    "pages/updatePwd/updatePwd",
+    "pages/records/records",
+    "pages/noticeDetail/noticeDetail",
+    "pages/knowledge/knowledge",
+    "pages/psy/psy",
+    "pages/healthy/healthy",
+    "pages/knowledgeDetail/knowledgeDetail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "小程序",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#191919",
+    "selectedColor": "#13227A",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/tabberbar/index.png",
+        "selectedIconPath": "static/tabberbar/index-a.png"
+      },
+      {
+        "pagePath": "pages/healthy/healthy",
+        "text": "健康",
+        "iconPath": "static/tabberbar/healthy.png",
+        "selectedIconPath": "static/tabberbar/healthy-a.png"
+      },
+      {
+        "pagePath": "pages/knowledge/knowledge",
+        "text": "资讯",
+        "iconPath": "static/tabberbar/knowledge.png",
+        "selectedIconPath": "static/tabberbar/knowledge-a.png"
+      },
+      {
+        "pagePath": "pages/psy/psy",
+        "text": "心理",
+        "iconPath": "static/tabberbar/psy.png",
+        "selectedIconPath": "static/tabberbar/psy-a.png"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的",
+        "iconPath": "static/tabberbar/me.png",
+        "selectedIconPath": "static/tabberbar/me-a.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,1 @@
+<view><user-center-one vue-id="8e55f700-1" userInfo="{{userInfo}}" headImgKey="stuImg" nameKey="stuName" bind:__l="__l"></user-center-one></view>
